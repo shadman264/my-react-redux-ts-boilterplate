@@ -21,6 +21,8 @@
     "redux-actions": "^2.6.5",
     "redux-observable": "^1.2.0",
     "redux-thunk": "^2.3.0",
+    "reselect": "^4.0.0",
+    "superagent": "^6.1.0",
     "typescript": "^3.7.5"
   },
   "scripts": {
